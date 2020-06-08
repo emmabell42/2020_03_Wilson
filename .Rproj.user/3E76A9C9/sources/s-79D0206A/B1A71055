@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591640198419.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1579872363",
+    "id" : "B1A71055",
+    "lastKnownWriteTime" : 1591643543,
+    "last_content_update" : 1591643543911,
+    "path" : "~/OneDrive - UHN/Projects/01_inProgress/2020_03_Wilson/code/01_HOMER.Rmd",
+    "project_path" : "code/01_HOMER.Rmd",
+    "properties" : {
+        "cursorPosition" : "12,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,29 @@
+---
+title: '01 - Performing HOMER motif enrichment on the MeDIP outliers'
+author: "Emma Bell"
+date: '2020-06-08'
+output:
+  html_document:
+    df_print: paged
+    toc: yes
+    toc_float: true
+    toc_depth: 2
+    fig_caption: true
+---
+
+# Analysis
+
+## 1. HOMER motif enrichment on the MeDIP outliers from Sam's project
+
+I'll make these comparisons:
+
+- Outliers vs HOMER-generated randomised genomic background 
+- Stimulated + DAC (unique) vs All
+
+```{bash eval=FALSE}
+findMotifsGenome.pl data/03_augmented/outlier_coords.txt hg38 data/03_augmented/01_homer_motif -size 300 -p 10
+```
+
+```{bash eval=FALSE}
+annotatePeaks.pl data/03_augmented/outlier_coords.txt hg38 > data/03_augmented/02_homer_annotation/outlier_annotation.txt
+```
