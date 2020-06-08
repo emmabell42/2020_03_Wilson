@@ -1,0 +1,1 @@
+cmd = data/03_augmented/outlier_coords.txt hg38 data/03_augmented/01_homer -size 300 -p 10

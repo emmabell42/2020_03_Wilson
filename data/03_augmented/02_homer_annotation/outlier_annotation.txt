@@ -1,0 +1,15 @@
+PeakID (cmd=annotatePeaks.pl data/03_augmented/outlier_coords.txt hg38)	Chr	Start	End	Strand	Peak Score	Focus Ratio/Region Size	Annotation	Detailed Annotation	Distance to TSS	Nearest PromoterID	Entrez ID	Nearest Unigene	Nearest Refseq	Nearest Ensembl	Gene Name	Gene Alias	Gene Description	Gene Type
+outlier_6	chrX	44613002	44613300	+	0	NA	Intergenic	AluJr|SINE|Alu	-70292	NM_173794	139341	Hs.7549	NM_173794	ENSG00000069509	FUNDC1	-	FUN14 domain containing 1	protein-coding
+outlier_14	chr5	74070902	74071200	+	0	NA	Intergenic	Intergenic	237274	NR_105009	102503429	Hs.519391	NR_105009	ENSG00000248942	LINC01335	-	long intergenic non-protein coding RNA 1335	ncRNA
+outlier_8	chr8	139704302	139704600	+	0	NA	Intergenic	CpG-27595	-1328	NM_001282534	51305	Hs.493037	NM_001282534	ENSG00000169427	KCNK9	K2p9.1|KT3.2|TASK-3|TASK3	potassium two pore domain channel subfamily K member 9	protein-coding
+outlier_12	chr16	9670802	9671100	+	0	NA	Intergenic	LTR7|LTR|ERV1	-215446	NR_126349	104266959	Hs.578888	NR_126349	ENSG00000261075	LINC01195	-	long intergenic non-protein coding RNA 1195	ncRNA
+outlier_11	chr16	11578802	11579100	+	0	NA	intron (NR_024320, intron 1 of 3)	AluSp|SINE|Alu	7422	NM_004862	9516	Hs.459940	NM_004862	ENSG00000189067	LITAF	PIG7|SIMPLE|TP53I7	lipopolysaccharide induced TNF factor	protein-coding
+outlier_13	chr17	68385602	68385900	+	0	NA	intron (NM_001352899, intron 9 of 12)	intron (NM_001352899, intron 9 of 12)	-27872	NM_001278433	5573	Hs.280342	NM_002734	ENSG00000108946	PRKAR1A	ACRDYS1|ADOHR|CAR|CNC|CNC1|PKR1|PPNAD1|PRKAR1|TSE1	protein kinase cAMP-dependent type I regulatory subunit alpha	protein-coding
+outlier_7	chr1	44582702	44583000	+	0	NA	intron (NM_001319957, intron 1 of 13)	AluSq2|SINE|Alu	37358	NR_049849	100847089		NR_049849	ENSG00000263381	MIR5584	-	microRNA 5584	ncRNA
+outlier_9	chr2	224230502	224230800	+	0	NA	Intergenic	LTR7|LTR|ERV1	171343	NM_024785	79843	Hs.147585	NM_024785	ENSG00000124019	FAM124B	-	family with sequence similarity 124 member B	protein-coding
+outlier_1	chr13	95176202	95176500	+	0	NA	intron (NM_001105515, intron 13 of 20)	AluJo|SINE|Alu	-33993	NR_145733	109616987		NR_145733		SNORD13G	-	small nucleolar RNA, C/D box 13G	snoRNA
+outlier_2	chr2	120383402	120383700	+	0	NA	Intergenic	Intergenic	37415	NM_002193	3625	Hs.1735	NM_002193	ENSG00000163083	INHBB	-	inhibin subunit beta B	protein-coding
+outlier_5	chr17	1025102	1025400	+	0	NA	intron (NM_001322840, intron 16 of 22).2	AluSx1|SINE|Alu	-2692	NR_036148	100422835		NR_036148	ENSG00000264429	MIR3183	mir-3183	microRNA 3183	ncRNA
+outlier_4	chr22	20900402	20900700	+	0	NA	Intergenic	Intergenic	-16856	NR_156180	1399	Hs.5613	NM_005207	ENSG00000099942	CRKL	-	CRK like proto-oncogene, adaptor protein	protein-coding
+outlier_3	chr12	95476202	95476500	+	0	NA	intron (NM_001317183, intron 2 of 9)	AluSx|SINE|Alu	2199	NM_001317183	10988	Hs.444986	NM_006838	ENSG00000111142	METAP2	MAP2|MNPEP|p67eIF2	methionyl aminopeptidase 2	protein-coding
+outlier_10	chr17	3521102	3521400	+	0	NA	intron (NM_001258205, intron 13 of 17)	L2b|LINE|L2	-7399	NM_001321337	84690	Hs.351068	NM_032598	ENSG00000141255	SPATA22	NYD-SP20|NYDSP20	spermatogenesis associated 22	protein-coding
